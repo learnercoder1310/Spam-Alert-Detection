@@ -62,8 +62,5 @@ The dataset used is a CSV file with labeled email texts:
 
 ---
 
-## 📦 How to Run
 
-### 1. Clone the Repo
-```bash
 

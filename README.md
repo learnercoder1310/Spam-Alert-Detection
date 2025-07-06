@@ -4,6 +4,8 @@ This project is a simple yet powerful machine learning model that can classify e
 
 ---
 ![image alt](https://github.com/learnercoder1310/Spam-Alert-Detection/blob/5cfb58bbfc7956c52e12d40752f2667c7fc5230f/build/spam_3.png)
+
+![image alt](https://github.com/learnercoder1310/Spam-Alert-Detection/blob/4d5133bf45b98092131a8675f05f96324f1e4e3b/build/spam_2.png)
 ## 🚀 Features
 
 - Classifies emails as 🚨 **Spam** or ✅ **Ham**

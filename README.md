@@ -3,7 +3,7 @@
 This project is a simple yet powerful machine learning model that can classify emails as **Spam** or **Ham (Legitimate)** using **TF-IDF Vectorization** and a **Support Vector Machine (SVM)** classifier.
 
 ---
-
+![image alt](https://github.com/learnercoder1310/Spam-Alert-Detection/blob/5cfb58bbfc7956c52e12d40752f2667c7fc5230f/build/spam_3.png)
 ## 🚀 Features
 
 - Classifies emails as 🚨 **Spam** or ✅ **Ham**
